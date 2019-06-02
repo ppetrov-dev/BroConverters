@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For MyConverters
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+MyConverters	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+    DaysToHours KEYWORD2
+     HoursToMinutes KEYWORD2
+     MillisecondsToSeconds KEYWORD2
+     SecondsToMilliseconds KEYWORD2
+     SecondsToMinutes KEYWORD2
+     SecondsToHours KEYWORD2
+     HoursToDays KEYWORD2
+     MinutesToSeconds KEYWORD2
+     SecondsToDays KEYWORD2
+     DaysToMinutes KEYWORD2
+     DaysToSeconds KEYWORD2
+     DaysToMilliseconds KEYWORD2
+     HoursToSeconds KEYWORD2
+     HoursToMilliseconds KEYWORD2
+     MinutesToDays KEYWORD2
+     MinutesToHours KEYWORD2
+     MinutesToMilliseconds KEYWORD2
+     MillisecondsToMinutes KEYWORD2
+     MillisecondsToHours KEYWORD2
+     MillisecondsToDays KEYWORD2
+    
+#######################################
+# Constants (LITERAL1)
+#######################################
+

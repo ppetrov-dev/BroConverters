@@ -1,0 +1,22 @@
+{
+  "name": "MyConverters",
+  "keywords": "converters",
+  "description": "Useful Arduino library to convert days, hours. minutes, seconds or milliseconds (e.g days to minutes). In future it will be extended by another type of converters (not only datetime converter).",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ppetrov-dev/MyConverters.git"
+  },
+  "authors": 
+  [
+    {
+      "name": "Pavel Petrov",
+      "email": "ppetrov-dev@hotmail.com",
+      "url": "http://www.ppetrov.dev",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
