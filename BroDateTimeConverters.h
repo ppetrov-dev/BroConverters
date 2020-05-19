@@ -1,7 +1,7 @@
-#ifndef myDateTimeConvertersH
-#define myDateTimeConvertersH
+#ifndef broDateTimeConvertersH
+#define broDateTimeConvertersH
 
-class MyDateTimeConverters
+class BroDateTimeConverters
 {
 public:
     static unsigned long DaysToHours(unsigned long days)
@@ -99,4 +99,4 @@ public:
     }
 };
 
-#endif //myDateTimeConvertersH
+#endif //broDateTimeConvertersH

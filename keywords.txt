@@ -1,11 +1,11 @@
 #######################################
-# Syntax Coloring Map For MyConverters
+# Syntax Coloring Map For BroConverters
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
-MyConverters	KEYWORD1
+BroConverters	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
